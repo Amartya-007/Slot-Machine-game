@@ -14,7 +14,6 @@ This is a simple command-line slot machine game implemented in Python.
 
 ```
 pip install colorama
-
 ```
 
 ## Installation
